@@ -179,7 +179,8 @@ body {
   font-size: 19pt;
   font-weight: 300;
   line-height: 1.75em;
-  color: #888;
+  color: black;
+  /* color: #888; */
 }
 
 body.is-preload *,
