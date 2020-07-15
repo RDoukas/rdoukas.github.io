@@ -1867,6 +1867,10 @@ article:last-child {
   width: 48px;
   height: 48px;
 }
+.image.pic08 img {
+  height: 65px;
+  width: auto;
+}
 
 .image.fit {
   display: block;
