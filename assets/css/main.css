@@ -1869,13 +1869,14 @@ article:last-child {
   height: 48px;
 }
 .image.pic08 img {
-  height: 65px;
+  height: 20px;
   width: auto;
 }
 
 .image.fit {
   display: block;
-  width: 100%;
+  width: 65px;
+  height: 20px;
 }
 
 .image.featured {
