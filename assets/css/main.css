@@ -1869,7 +1869,7 @@ article:last-child {
   height: 48px;
 }
 .image.pic08 img {
-  height: 100px;
+  /* height: 65px; */
   width: auto;
 }
 
