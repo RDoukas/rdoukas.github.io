@@ -1875,8 +1875,7 @@ article:last-child {
 
 .image.fit {
   display: block;
-  width: 65px;
-  height: 20px;
+  width: 100%;
 }
 
 .image.featured {
