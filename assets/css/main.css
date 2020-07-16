@@ -1869,7 +1869,7 @@ article:last-child {
   height: 48px;
 }
 .image.pic08 img {
-  height: 20px;
+  height: 65px;
   width: auto;
 }
 
@@ -1880,7 +1880,6 @@ article:last-child {
 
 .image.featured {
   display: block;
-  height: 20px;
   width: 100%;
   margin: 0 0 2em 0;
 }
