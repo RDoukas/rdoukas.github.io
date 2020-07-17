@@ -438,7 +438,6 @@ br.clear {
 
 .row > .col-4 {
   width: 33.33333%;
-  align-items: flex-start;
 }
 
 .row > .off-4 {
@@ -1877,6 +1876,7 @@ article:last-child {
 .image.fit {
   display: block;
   width: 100%;
+  align-items: flex-start;
 }
 
 .image.featured {
