@@ -1588,7 +1588,7 @@ br.clear {
     display: flex;
     flex-wrap: wrap;
     box-sizing: border-box;
-    align-items: flex-start;
+    /* align-items: flex-start; */
   }
 
   .row > * {
