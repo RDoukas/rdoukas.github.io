@@ -1876,7 +1876,6 @@ article:last-child {
 .image.fit {
   display: block;
   width: 100%;
-  align-items: flex-start;
 }
 
 .image.featured {
