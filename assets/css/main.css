@@ -1904,6 +1904,7 @@ article:last-child {
 ul {
   list-style: disc;
   padding-left: 1em;
+  text-align: center;
 }
 
 ul li {
