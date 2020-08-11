@@ -1508,11 +1508,6 @@ blockquote {
   font-style: italic;
 }
 
-em,
-i {
-  font-style: italic;
-}
-
 hr {
   border: 0;
   border-top: solid 1px #ddd;
