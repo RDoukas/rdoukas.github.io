@@ -1889,7 +1889,7 @@ ul.actions li:first-child {
   width: 1em;
   height: 1em;
   line-height: 0.9em;
-  font-size: 8pt;
+  font-size: 10pt;
   margin: 0 0.25em 0 0.25em;
   opacity: 0.35;
   outline-width: thin;
@@ -1904,7 +1904,7 @@ ul.actions li:first-child {
 }
 
 #nav a:before {
-  font-size: 8pt;
+  font-size: 10pt;
 }
 
 #nav a:after {
