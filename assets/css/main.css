@@ -1889,10 +1889,10 @@ ul.actions li:first-child {
   width: 1em;
   height: 1em;
   line-height: 0.9em;
-  font-size: 5pt;
+  font-size: 8pt;
   margin: 0 0.25em 0 0.25em;
   opacity: 0.35;
-  outline: 0;
+  outline-width: thin;
   -moz-transition: opacity 0.25s ease-in-out;
   -webkit-transition: opacity 0.25s ease-in-out;
   -ms-transition: opacity 0.25s ease-in-out;
@@ -1904,7 +1904,7 @@ ul.actions li:first-child {
 }
 
 #nav a:before {
-  font-size: 5pt;
+  font-size: 8pt;
 }
 
 #nav a:after {
@@ -1929,7 +1929,7 @@ ul.actions li:first-child {
   background: #222222;
   color: #ffffff;
   top: -2.75em;
-  font-size: 5pt;
+  font-size: 10pt;
   height: 2.25em;
   line-height: 2.25em;
   left: 50%;
