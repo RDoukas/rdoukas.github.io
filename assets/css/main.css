@@ -1663,7 +1663,7 @@ header > p {
 
 .image.fit {
   display: block;
-  width: 50%;
+  width: 75%;
   /* height: 300px;
   object-fit: cover; */
 }
