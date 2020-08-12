@@ -1841,7 +1841,7 @@ ul.actions li:first-child {
 }
 
 .icon:before {
-  -moz-osx-font-smoothing: grayscale;
+  -moz-osx-font-smoothing: #9069b3;
   -webkit-font-smoothing: antialiased;
   display: inline-block;
   font-style: normal;
