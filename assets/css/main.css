@@ -1664,7 +1664,6 @@ header > p {
 .image.fit {
   display: block;
   width: 100%;
-
 }
 
 .image.featured {
@@ -1686,6 +1685,14 @@ header > p {
 .image.centered img {
   margin: 0 auto;
   width: auto;
+}
+video {
+  margin: 10 px;
+  padding: 10 px;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
 }
 
 /* Button */
@@ -1839,7 +1846,6 @@ ul.actions li:first-child {
   text-decoration: none;
   position: relative;
   text-decoration: none;
-  
 }
 
 .icon:before {
